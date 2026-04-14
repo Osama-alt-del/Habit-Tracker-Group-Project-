@@ -18,3 +18,8 @@ We have decided to use Android studio with java so that we learn more
 	- Timing (every day resets, SA time), 
 	- cleaning up UI
 	- Another feature branch which keeps track off task progress utilizing the calendar
+
+
+
+# Meeting Times
+- Meeting 1 (20/4/2026)
