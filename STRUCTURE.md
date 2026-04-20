@@ -23,3 +23,6 @@ We have decided to use Android studio with java so that we learn more
 
 # Meeting Times
 - Meeting 1 (20/4/2026)
+    -Set up environment and android studio
+    -Tested some Java Code
+    -Learned how to link android studio with hardware device
